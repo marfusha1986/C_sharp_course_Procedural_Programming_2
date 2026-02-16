@@ -16,7 +16,7 @@
 
                 numbers.Add(Convert.ToInt32(input));
             }
-            Console.WriteLine("Donguden ciktim");
+           
 
             Console.WriteLine("Unique numbers: ");
             foreach (var number in GetUniqueNumbers(numbers))
